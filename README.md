@@ -1,11 +1,11 @@
-# 阿里云首页
+# Alibaba Cloud Homepage
 
-当时购买服务的时候，觉得阿里云的首页非常漂亮，效果特别绚丽，决定尝试模仿一下这个页面；
+When I purchased their services, I was really impressed by the Alibaba Cloud homepage. It had a stunning design with vibrant effects, so I decided to give it a try and recreate the page.
 
-链接：[(https://eloiselu.github.io/aliyun/)]()](https://eloiselu.github.io/aliyun/)
+Link: https://eloiselu.github.io/aliyun/
 
-- 页面展示的数据为采用JSON数据渲染出来的；
-- 采用 HTML5 编写语义化标签代码；
-- banner 部分是一个轮播图，采用 CSS3 实现页面绚丽的效果，并且其中的图片根据鼠标的移动，有一种不同深度层次感的偏移感；
-- 中间“服务“区域，是一个类似于手风琴的效果，四个板块，鼠标移上去后，该板块会放大，查看该板块的详细信息；
-- 地图区域，定位点周围有扩散圆圈放大的效果；
+- The data displayed on the page is rendered using JSON data.
+- HTML5 is used to create semantic markup for the page.
+- The banner section features a slideshow implemented with CSS3 to create a visually appealing effect. The images in the banner also respond to mouse movement, creating a sense of depth and parallax.
+- The "Services" section in the middle of the page functions like an accordion, with four panels. When you hover over a panel, it enlarges, allowing you to view detailed information for that section.
+- The map section features expanding circles around location markers, creating a zooming effect.
